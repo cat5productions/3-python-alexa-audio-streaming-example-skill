@@ -1,11 +1,9 @@
 """
- Copyright (C) 2020 Dabble Lab - All Rights Reserved
+ Copyright (C) 2025 - All Rights Reserved
  You may use, distribute and modify this code under the
  terms and conditions defined in file 'LICENSE.txt', which
  is part of this source code package.
  
- For additional copyright information please
- visit : http://dabblelab.com/copyright
  """
 
 import logging
@@ -38,15 +36,15 @@ Instructions to modify the code to play the stream of your choice:
 STREAMS = [
   {
     "token": '1',
-    "url": 'https://www.radiokrishna.com/RKC-Terni-HQ.m3u',
+    "url": 'https://s1.radio-streamlive.com:4025/stream.mp3',
     "metadata": {
-      "title": 'Dabble Radio',
-      "subtitle": 'A subtitle for dabble radio',
+      "title": '94.1 turn It Up Radio',
+      "subtitle": 'Turn It Up!',
       "art": {
         "sources": [
           {
             "contentDescription": 'example image',
-            "url": 'https://s3.amazonaws.com/cdn.dabblelab.com/img/audiostream-starter-512x512.png',
+            "url": 'https://www.fleetradionetwork.com/wp-content/uploads/2025/02/Turn-it-Up-512x512-1.jpg',
             "widthPixels": 512,
             "heightPixels": 512
           }
@@ -56,7 +54,7 @@ STREAMS = [
         "sources": [
           {
             "contentDescription": 'example image',
-            "url": 'https://s3.amazonaws.com/cdn.dabblelab.com/img/wayfarer-on-beach-1200x800.png',
+            "url": 'https://www.fleetradionetwork.com/wp-content/uploads/2025/02/Turn-it-up-Radio-1200x800-1.jpg',
             "widthPixels": 1200,
             "heightPixels": 800
           }
