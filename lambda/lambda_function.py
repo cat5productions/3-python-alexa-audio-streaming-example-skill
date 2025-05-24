@@ -36,15 +36,15 @@ Instructions to modify the code to play the stream of your choice:
 STREAMS = [
   {
     "token": '1',
-    "url": 'https://s1.radio-streamlive.com:4025/stream.mp3',
+    "url": 'https://s3.fleetradionetwork.com:6040/stream.mp3',
     "metadata": {
-      "title": '94.1 turn It Up Radio',
+      "title": 'Texas Fleet Radio',
       "subtitle": 'Turn It Up!',
       "art": {
         "sources": [
           {
             "contentDescription": 'example image',
-            "url": 'https://www.fleetradionetwork.com/wp-content/uploads/2025/02/Turn-it-Up-512x512-1.jpg',
+            "url": 'https://www.fleetradionetwork.com/wp-content/uploads/2025/05/Texas_Fleet_Radio_512x512.jpg',
             "widthPixels": 512,
             "heightPixels": 512
           }
@@ -54,7 +54,7 @@ STREAMS = [
         "sources": [
           {
             "contentDescription": 'example image',
-            "url": 'https://www.fleetradionetwork.com/wp-content/uploads/2025/02/Turn-it-up-Radio-1200x800-1.jpg',
+            "url": 'https://www.fleetradionetwork.com/wp-content/uploads/2025/05/Texas_Fleet_Alexa_1200x800.jpg',
             "widthPixels": 1200,
             "heightPixels": 800
           }
