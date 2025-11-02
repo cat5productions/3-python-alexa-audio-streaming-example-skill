@@ -36,15 +36,15 @@ Instructions to modify the code to play the stream of your choice:
 STREAMS = [
   {
     "token": '1',
-    "url": 'https://s3.fleetradionetwork.com:6040/stream.mp3',
+    "url": 'https://s3.fleetradionetwork.com:6053/stream.mp3',
     "metadata": {
-      "title": 'Texas Fleet Radio',
-      "subtitle": 'Turn It Up!',
+      "title": 'Classy 1230 AM',
+      "subtitle": 'The Soul of Augusta!',
       "art": {
         "sources": [
           {
             "contentDescription": 'example image',
-            "url": 'https://www.fleetradionetwork.com/wp-content/uploads/2025/05/Texas_Fleet_Radio_512x512.jpg',
+            "url": 'https://www.fleetradionetwork.com/wp-content/uploads/2025/11/Classy-512x512-1.jpg',
             "widthPixels": 512,
             "heightPixels": 512
           }
@@ -54,7 +54,7 @@ STREAMS = [
         "sources": [
           {
             "contentDescription": 'example image',
-            "url": 'https://www.fleetradionetwork.com/wp-content/uploads/2025/05/Texas_Fleet_Alexa_1200x800.jpg',
+            "url": 'https://www.fleetradionetwork.com/wp-content/uploads/2025/11/classy_1200x800.jpg',
             "widthPixels": 1200,
             "heightPixels": 800
           }
